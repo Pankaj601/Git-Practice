@@ -1,2 +1,5 @@
 Let name, admin;
+let name ="Vijay";
+let admin=name;
+alert(admin);
 
