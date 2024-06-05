@@ -1,5 +1,5 @@
 Let name, admin;
 let name ="Vijay";
 let admin=name;
-alert(admin);
+alert(admin);//Vijay will be admin
 
